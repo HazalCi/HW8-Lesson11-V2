@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.Period;
 
 public class Male extends Personnel {
+
     private static final int RETIREMENT_AGE = 65;
 
     public Male(String name, String surname, LocalDate birthdate) {

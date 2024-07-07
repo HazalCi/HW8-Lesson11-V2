@@ -3,7 +3,6 @@ import java.time.LocalDate;
 import java.time.Period;
 
 public abstract class Personnel {
-
     private String name;
     private String surname;
     private LocalDate birthdate;

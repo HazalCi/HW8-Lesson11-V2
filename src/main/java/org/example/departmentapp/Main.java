@@ -30,7 +30,5 @@ public class Main {
         System.out.println("Last Task List:" + department.getTasks());
         System.out.println( personnel2  + " Years Until Retirement: " + personnel2.yearsUntilRetirement());
         System.out.println( personnel3  + " Years Until Retirement: " + personnel3.yearsUntilRetirement());
-
-
     }
 }

@@ -38,8 +38,7 @@ public class Department {
             personnel.add(teamLeader);
             System.out.println("New team leader : " +teamLeader);
         }
-        }
-
+    }
 
         public void addPerson(Personnel person) {
             this.personnel.add(person);
@@ -80,6 +79,4 @@ public class Department {
         public List<String> getTasks() {
             return tasks;
         }
-
-
     }
